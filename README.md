@@ -32,3 +32,15 @@ Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+![Screenshot (132)](https://github.com/Divyesh032040/Bubble-Game-/assets/127118175/33a89ae1-b332-47ee-85f5-46b48f7a2243)
+
+
+![Screenshot (133)](https://github.com/Divyesh032040/Bubble-Game-/assets/127118175/360abff2-fcf7-4b28-8ad3-a30442fb653b)
+
+
+![Screenshot (134)](https://github.com/Divyesh032040/Bubble-Game-/assets/127118175/2be903d5-e381-43d4-bd6c-e716a2055ee4)
+
+
+![Screenshot (135)](https://github.com/Divyesh032040/Bubble-Game-/assets/127118175/49cf7c07-2bf5-476c-ba45-8f0814e91a70)
+
+
