@@ -1,4 +1,4 @@
-#Bubble Blow Game
+##Bubble Blow Game
 
 Bubble Blow is a simple web-based game where the player clicks on bubbles with randomly generated numbers to match a target value and score points. The game features a countdown timer, score tracking, and a visually appealing interface with responsive design.
 Preview
